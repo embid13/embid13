@@ -14,7 +14,7 @@ I'm graduated in computer engineering. Technologically skilled, I offer experien
 
 
 ## Studies and work
-👩‍💻 I'm currently doing an internship on cybersecurity in Multi-Access Edge Computing in IKERLAN.
+👩‍💻 I'm currently doing an internship on cybersecurity in Multi-Access Edge Computing (of 5G networks) in IKERLAN.
 
 🧠 I'm currently studying a Master's on Cloud Computing, Data Analysis and Cybersecurity.
 
