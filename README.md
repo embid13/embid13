@@ -21,5 +21,5 @@ I'm graduated in computer engineering. Technologically skilled, I offer experien
 
 
 ## 🛠 Skills
-C programming, python, docker, kubernetes, linux, javascript, HTML, CSS.
+Cybersecurity, networking, computer architecture, C programming, python, docker, kubernetes, linux, javascript, HTML, CSS.
 
