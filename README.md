@@ -1,6 +1,15 @@
 
 # Hello World 👋
 
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Shell Scripting](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 ## 🚀 About Me
@@ -21,5 +30,5 @@ I'm graduated in computer engineering. Technologically skilled, I offer experien
 
 
 ## 🛠 Skills
-Cybersecurity, networking, computer architecture, C programming, python, docker, kubernetes, linux, javascript, HTML, CSS.
+Cloud computing, cybersecurity, machine learning, networking, computer architecture, C programming, python, docker, kubernetes, linux, javascript, HTML, CSS.
 
