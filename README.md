@@ -24,6 +24,7 @@ I'm graduated in computer engineering. Technologically skilled, I offer experien
 
 ## Studies and work
 👩‍💻 I'm currently carrying out the master's thesis on "Enabling interoperability in the semiconductor industry: A semantic model for translating between standards" at Infineon Technologies AG.
+
 🧠 I'm currently studying a Master's on Cloud Computing, Data Analysis and Cybersecurity.
 
 
