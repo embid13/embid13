@@ -23,12 +23,11 @@ I'm graduated in computer engineering. Technologically skilled, I offer experien
 
 
 ## Studies and work
-👩‍💻 I'm currently doing an internship on cybersecurity in Multi-Access Edge Computing (of 5G networks) in IKERLAN.
-
+👩‍💻 I'm currently carrying out the master's thesis on "Enabling interoperability in the semiconductor industry: A semantic model for translating between standards" at Infineon Technologies AG.
 🧠 I'm currently studying a Master's on Cloud Computing, Data Analysis and Cybersecurity.
 
 
 
 ## 🛠 Skills
-Cloud computing, cybersecurity, machine learning, networking, computer architecture, C programming, python, docker, kubernetes, linux, javascript, HTML, CSS.
+Cloud computing, cybersecurity, machine learning, networking, computer architecture, C programming, python, docker, kubernetes, linux, javascript, HTML, CSS, OWL, RDFlib, ontologies, semantic web.
 
